@@ -1,4 +1,10 @@
 {
-  "item.tutorialmod.titanium_ingot": "Titanium ingot",
-  "item.tutorialmod.raw_titanium": "Raw Titanium"
+  "item.tutorialmod.titanium_ingot": "Titanium Ingot",
+  "item.tutorialmod.raw_titanium": "Raw Titanium",
+
+  "block.tutorialmod.raw_titanium_block": "Block of Raw Titanium",
+  "block.tutorialmod.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.tutorialmod.titanium_ore": "Titanium Ore",
+
+  "itemgroup.tutorialmod.koru_mod_tab": "Koru's Mod"
 }
